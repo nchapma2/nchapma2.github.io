@@ -2594,7 +2594,23 @@
 	font-weight: normal;
 }
 
+.skill-icons {
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	height: 400px;
+	width: 500px;
+	flex-wrap: wrap;
+	align-items: center;
+
+}
+
+i.skill-web {
+	margin: 20px;
+	font-size:70px;
+}
+
 i.skill {
-	font-size: 80px;
-	margin: 10px;
+	font-size: 70px;
+	margin: 20px;
 }
