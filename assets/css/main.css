@@ -2592,6 +2592,7 @@
 	background: none;
 	width: 100%;
 	font-weight: normal;
+	padding: 10px;
 }
 
 .skill-icons {
@@ -2602,7 +2603,10 @@
 	width: 500px;
 	flex-wrap: wrap;
 	align-items: center;
+}
 
+.contact {
+	text-align: center;
 }
 
 i.skill-web {
